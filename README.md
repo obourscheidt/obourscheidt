@@ -10,10 +10,16 @@ joseotaviobhomem@gmail.com
 
 These are the programming languages ​​I use most often currently, but I'm looking to learn more.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jose-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="jose-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jose-Php" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.png">
-  <img align="center" alt="jose-Sql" height="30" width="40" src="https://cdn-icons-png.freepik.com/512/4492/4492354.png">
-  
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img alt="jose-Js" height="30" width="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img alt="jose-Html" height="30" width="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img alt="jose-Css" height="30" width="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img alt="jose-Php" height="30" width="30"
+    src="https://www.php.net/images/logos/new-php-logo.png">
+</div>
